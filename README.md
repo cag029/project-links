@@ -3,7 +3,7 @@ A running list of school and side projects during my time at The University of A
 
 - [Download "Programming Challenges" SPOJ solutions](https://github.com/cag029/project-links/raw/main/PC_exercises.zip)  * some are incomplete/incorrect, problems solved are in the reports.
 
-- [Download "Database Management" Homework Solutions](https://github.com/cag029/project-links/raw/main/database_MGMT.zip)  
+- [Download "Database Management" Homework Solutions](https://github.com/cag029/project-links/raw/main/Database_MGMT.zip)  
 
 - [Link to Photon Laser Tag Project](https://github.com/gam010/Photon-Laser-Tag)
 
